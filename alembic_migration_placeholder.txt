@@ -1,0 +1,3 @@
+
+# Alembic migration file
+# Please setup Alembic and generate the migration script for actual database migration
